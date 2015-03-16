@@ -24,7 +24,7 @@ e.g.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot1.png. Note that the screenshot is taken from
+1. This screen shot description corresponds to screenshot1.png . Note that the screenshot is taken from
 the /assets directory or the directory that contains the stable readme.txt (tags or trunk).
 (or jpg, jpeg, gif).
 
