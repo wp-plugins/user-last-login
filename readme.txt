@@ -22,7 +22,7 @@ How to install the plugin and get it working.
 
 == Screenshots ==
 
-Manage users screen with column 'Last Login' added at end.
+1. Manage users screen with column 'Last Login' added at end.
 
 == Changelog ==
 
