@@ -24,9 +24,7 @@ e.g.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.png . Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk).
-(or jpg, jpeg, gif).
+1. manage users screen with column 'Last Login' added at end.
 
 == Changelog ==
 
